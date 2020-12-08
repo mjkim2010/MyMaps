@@ -4,18 +4,11 @@
 
 **My Maps** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map. 
 
-Time spent: **4** hours spent in total
-
 ## Functionality 
-
-The following **required** functionality is completed:
 
 * [x] The list of map titles is displayed.
 * [x] After tapping on a map title, the associated markers in the map are shown.
 * [x] The user is able to create a new map.
-
-The following **extensions** are implemented:
-
 * [x] Changed the color scheme of the app
 
 ## Video Walkthrough
